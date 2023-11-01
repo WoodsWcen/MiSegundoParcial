@@ -1,0 +1,4 @@
+com\emergentes\dao\BibliotecaDAO.class
+com\emergentes\conexionBD\ConexionBD_BIBLIOTECA.class
+com\emergentes\dao\BiblioDAO.class
+com\emergentes\padre\ModeloPadre_biblioteca.class
